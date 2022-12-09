@@ -27,7 +27,7 @@ bool canPlaceFlowers (int flowerbed[], int n, int k)
         }
     }
 
-    cout << "s la: " << s << "  k la: " << k << endl;
+//    cout << "s la: " << s << "  k la: " << k << endl;
 
     if(s >= k){
         return true;
